@@ -149,3 +149,7 @@ st.markdown("---")
 st.markdown(
     "Made with ❤️ using Streamlit and TensorFlow"
 )
+
+st.markdown(
+    "Created by Devanshi Baraskar"
+)
